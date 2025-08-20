@@ -1,0 +1,19 @@
+- [ ] **Fase 1: Clonagem do repositório SIG-TE**
+  - [ ] Clonar o projeto do repositório oficial: https://github.com/conductasset/sig-te-2b3067a6
+- [ ] **Fase 2: Planejamento da estrutura de incremento**
+  - [ ] Mapear funcionalidades de `incrementar.txt` para componentes do `SIG-TE.txt`.
+  - [ ] Definir a estrutura de pastas e arquivos para os novos/incrementados componentes.
+  - [ ] Traduzir a lógica de negócio dos arquivos `.gs` para o contexto do projeto React/TypeScript.
+- [x] **Fase 3: Implementação dos componentes incrementados**
+  - [x] Implementar componentes de UI para registro e visualização de incidentes (baseado em `IncidentService.gs`).
+  - [x] Implementar lógica de upload de arquivos (baseado em `DriveService.gs`).
+  - [x] Implementar componentes de UI para registro, atualização e busca de alunos (baseado em `StudentService.gs`).
+  - [x] Implementar lógica de validação e capacidade de rota para alunos.
+  - [x] Implementar componentes de UI para registro e gerenciamento de veículos (inferido de `VehicleRegistration.integrationtest.gs`).
+- [x] **Fase 4: Validação e testes dos componentes**
+  - [x] Desenvolver testes unitários e de integração para os novos componentes.
+  - [x] Validar a funcionalidade e a integração dos componentes.
+- [ ] **Fase 5: Documentação e entrega dos resultados**
+  - [ ] Documentar as alterações e adições feitas no projeto.
+  - [ ] Preparar os arquivos para entrega.
+
